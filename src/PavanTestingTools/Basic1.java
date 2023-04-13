@@ -17,6 +17,8 @@ public class Basic1 {
 		
 		//ChromeDriver driver=new ChromeDriver();
 		webdriver.ChromeDriver driver=new ChromeDriver(); //launch the browser
+		webdriver.ChromeDriver driver=new ChromeDriver111();
+		webdriver.ChromeDriver driver=new ChromeDriver222();
 		
 		//chrome firefox
 		
